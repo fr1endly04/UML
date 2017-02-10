@@ -1,0 +1,12 @@
+file system - Sistemul de fișiere (joaca)
+check profile for game process - verifica profilul pentru procesul de joc
+Allow level selection on game progression - Permite selectarea nivelului asupra progresului de joc
+save progression - salveaza progresul
+Move character - mute actorul
+Push crate - impinge lada
+start level - incepe nivelu
+Pick level - allege nivelu
+Finish level - finiseaza nivelu
+Count Steps Taken - numeral de tape parcurse
+Proceed to next level - Treci la novelul urmator
+Display on screen - Afisare pe ecran 
